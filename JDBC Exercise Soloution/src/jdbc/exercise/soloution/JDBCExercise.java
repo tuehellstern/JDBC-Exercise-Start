@@ -9,7 +9,7 @@ import java.sql.*;
  *
  * @author tuhe
  */
-public class JDBCExerciseSoloution {
+public class JDBCExercise {
 
     public static void main(String[] args) throws SQLException
     {
